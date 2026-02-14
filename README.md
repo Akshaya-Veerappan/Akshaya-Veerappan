@@ -1,14 +1,26 @@
-# Hi 👋 I'm Akshaya
+<h1 align="center">Hi 👋, I'm Akshaya</h1>
+<h3 align="center">Aspiring Python Full Stack Developer</h3>
+
+---
 
 🎓 B.Tech Student  
-💻 Aspiring Python Full Stack Developer  
-🚀 Working with FastAPI, SQL, AWS  
+💻 Backend Enthusiast  
+🚀 Building real-world applications using FastAPI, SQL & AWS  
+
+---
 
 ## 🔥 Current Focus
-- Building real-world backend projects
-- Improving problem solving
-- Learning system design
+- Developing scalable backend systems  
+- Strengthening Data Structures & SQL  
+- Writing clean and production-ready code  
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/akshaya-veerappan
-- Email: akshayav492004@gmail.com
+---
+
+## 🛠 Tech Stack
+Python | FastAPI | MySQL | HTML | CSS | JavaScript | AWS | Git
+
+---
+
+## 📫 Connect with Me
+LinkedIn: https://www.linkedin.com/in/akshaya-veerappan  
+Email: akshayav492004@gmail.com

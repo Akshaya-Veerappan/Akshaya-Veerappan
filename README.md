@@ -24,3 +24,19 @@ Python | FastAPI | MySQL | HTML | CSS | JavaScript | AWS | Git
 ## 📫 Connect with Me
 LinkedIn: https://www.linkedin.com/in/akshaya-veerappan  
 Email: akshayav492004@gmail.com
+
+
+---
+
+## 📊 GitHub Activity
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshaya-Veerappan&show_icons=true)
+
+---
+
+## 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Akshaya-Veerappan)
+
+---
+
+## 💻 Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya-Veerappan&layout=compact)

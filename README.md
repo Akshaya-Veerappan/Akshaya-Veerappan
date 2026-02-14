@@ -12,7 +12,7 @@
 ## 🔥 Current Focus
 - Developing scalable backend systems  
 - Strengthening Data Structures & SQL  
-- Writing clean and production-ready code  
+- Writing clean, maintainable, production-ready code
 
 ---
 

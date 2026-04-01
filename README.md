@@ -44,28 +44,26 @@
 
 ## 🛠 Tech Stack
 **Python** | **FastAPI** | **MySQL** | HTML | CSS | JavaScript | AWS | Git
+
+---
+
+## 🚀 Featured Project
+
+### 💼 Job Portal Web Application
+- Developed a full-stack job portal using FastAPI, HTML, CSS, and JavaScript  
+- Implemented JWT-based authentication and REST APIs  
+- Built features like job listing, job application, and user dashboard  
+- Deployed frontend and backend using Render  
+
+🔗 Live Demo: https://job-portal-frontend-9et4.onrender.com/  
+🔗 Backend API: https://jobportal-backend-uvgw.onrender.com/docs  
+🔗 GitHub: https://github.com/Akshaya-Veerappan/job-portal-frontend
+
 ---
 
 ## 📫 Connect with Me
 LinkedIn: https://www.linkedin.com/in/akshaya-veerappan  
 Email: akshayav492004@gmail.com 
 
----
 
-⭐ Turning ideas into reliable, scalable software.
-
----
-
-## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Akshaya-Veerappan)
-
----
-
-## 💻 Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya-Veerappan&layout=compact) 
-
----
-
-## 👀 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=Akshaya-Veerappan)
 

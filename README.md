@@ -56,11 +56,6 @@ Email: akshayav492004@gmail.com
 
 ---
 
-## 📊 GitHub Activity
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshaya-Veerappan&show_icons=true)
-
----
-
 ## 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Akshaya-Veerappan)
 

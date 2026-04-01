@@ -47,7 +47,6 @@
 - **Frontend:** HTML, CSS, JavaScript  
 - **Database:** MySQL  
 - **Tools:** AWS, Git
-- 
 ---
 
 ## 🚀 Featured Project

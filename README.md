@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Akshaya</h1>
-<h3 align="center">Aspiring Python Full Stack Developer</h3>
+<h3 align="center">Python Full Stack Developer</h3>
 
 ---
 
@@ -58,6 +58,24 @@
 🔗 Live Demo: https://job-portal-frontend-9et4.onrender.com/  
 🔗 Backend API: https://jobportal-backend-uvgw.onrender.com/docs  
 🔗 GitHub: https://github.com/Akshaya-Veerappan/job-portal-frontend
+
+
+### 📚 Online Learning Platform
+- Course and video-based learning system  
+- Login, dashboard, backend integration  
+- Tech: Node.js, Express, JavaScript  
+
+### 📝 Collaborative Document Editor
+- Real-time backend-based editor  
+- Multi-user interaction concept  
+
+### 🌐 Portfolio Website
+- Responsive personal portfolio  
+- Advanced animations using JS & CSS  
+
+### 📱 PWA Application
+- Offline support using service workers  
+- Installable web app experience  
 
 ---
 

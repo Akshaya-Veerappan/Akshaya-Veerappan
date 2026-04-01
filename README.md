@@ -43,8 +43,11 @@
 ---
 
 ## 🛠 Tech Stack
-**Python** | **FastAPI** | **MySQL** | HTML | CSS | JavaScript | AWS | Git
-
+- **Backend:** FastAPI, Python  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Database:** MySQL  
+- **Tools:** AWS, Git
+- 
 ---
 
 ## 🚀 Featured Project
@@ -59,6 +62,11 @@
 🔗 Backend API: https://jobportal-backend-uvgw.onrender.com/docs  
 🔗 GitHub: https://github.com/Akshaya-Veerappan/job-portal-frontend
 
+### ⚙️ FastAPI Todo API
+- RESTful API with CRUD operations  
+- Built using FastAPI, SQLAlchemy  
+- Input validation using Pydantic  
+- Demonstrates clean backend architecture
 
 ### 📚 Online Learning Platform
 - Course and video-based learning system  
@@ -76,6 +84,20 @@
 ### 📱 PWA Application
 - Offline support using service workers  
 - Installable web app experience  
+
+---
+
+## 📈 What I Bring
+- Strong backend fundamentals  
+- API design & JWT authentication  
+- Database design & SQL  
+- Clean and maintainable code  
+
+---
+
+## 🤝 Open To
+- Internship opportunities  
+- Backend / Full Stack roles  
 
 ---
 

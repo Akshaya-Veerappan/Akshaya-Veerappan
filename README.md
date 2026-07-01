@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Full+Stack+Developer;Backend+Engineer+in+Progress;Lifelong+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Full+Stack+Developer;Software+Engineer+in+Progress;Lifelong+Learner&center=true&width=500&height=45">
 </p>
 
 <h1 align="center">Hi 👋, I'm Akshaya</h1>
@@ -9,7 +9,7 @@
 
 🎓 **B.Tech Student**  
 💻 **Backend Enthusiast**  
-🚀 Building real-world applications using **FastAPI, SQL, AWS**
+🚀 Building real-world applications using **Gen AI, FastAPI, SQL, AWS**
 
 ---
 
@@ -42,10 +42,15 @@
 ---
 
 ## 🛠 Tech Stack
-- **Backend:** FastAPI, Python  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Database:** MySQL  
-- **Tools:** AWS, Git  
+
+- **Programming Languages:** Python, JavaScript, SQL
+- **Frontend:** HTML, CSS, Bootstrap 5, React.js
+- **Backend:** FastAPI, Django (Basics), REST APIs
+- **AI & Generative AI:** LangChain, FAISS, Gemini API, Flan-T5, Prompt Engineering, RAG, LLMs
+- **Database:** MySQL, PostgreSQL
+- **Cloud & DevOps:** AWS (EC2, S3), Docker, Kubernetes (Basics), Render
+- **Authentication:** JWT, OAuth (Basics)
+- **Tools:** Git, GitHub, Postman, Playwright, Ansible 
 
 ---
 

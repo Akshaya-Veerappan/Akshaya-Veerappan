@@ -59,9 +59,6 @@
 - Created REST APIs using FastAPI and integrated with frontend  
 - Deployed using AWS EC2  
 
-🔗 Frontend: http://100.30.205.192:5500  
-🔗 API: http://100.30.205.192:8000  
-
 ---
 
 ### 💼 Job Portal Web Application
@@ -73,6 +70,16 @@
 🔗 Live Demo: https://job-portal-frontend-9et4.onrender.com/  
 🔗 Backend: https://jobportal-backend-uvgw.onrender.com/docs  
 🔗 GitHub: https://github.com/Akshaya-Veerappan/job-portal-frontend  
+
+---
+
+### ⚖️ AI Legal Assistant (Final Year Project)
+- Built an AI-powered legal assistant using LangChain, FAISS, Gemini API, and FastAPI
+- Implemented Retrieval-Augmented Generation (RAG) to provide context-aware legal responses
+- Created a document-based question-answering system using legal documents
+- Integrated vector search with FAISS for efficient information retrieval
+- Developed REST APIs using FastAPI and connected them with the frontend
+- Designed an easy-to-use interface for legal queries and document interaction
 
 ---
 

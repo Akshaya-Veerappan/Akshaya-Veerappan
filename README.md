@@ -119,7 +119,7 @@ I'm a Computer Science Engineering graduate interested in **Generative AI, LLM a
 <a href="https://www.linkedin.com/in/akshaya-veerappan"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:akshayav492004@gmail.com"><img src="https://img.shields.io/badge/Email-475569?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <br/><br/>
-**Open to opportunities in Generative AI, AI application development, and Python development.**
+Open to opportunities in Generative AI, AI application development, and Python development.
 <br/>
 <sub>Thanks for visiting my profile!</sub>
 </div>

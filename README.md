@@ -104,15 +104,6 @@ I'm a Computer Science Engineering graduate interested in **Generative AI, LLM a
 * **AI Agents:** Learning tool calling, workflow orchestration, and agent design.
 * **Cloud & System Design:** AWS, Docker, deployment, scalability, and system design.
 
-## 📊 GitHub Statistics
-
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Akshaya-Veerappan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=E2E8F0" alt="GitHub statistics"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya-Veerappan&layout=compact&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=E2E8F0" alt="Most used languages"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=Akshaya-Veerappan&hide_border=true&background=0D1117&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=E2E8F0&dates=94A3B8" alt="GitHub contribution streak"/>
-</div>
-
 ## 🎯 Goals
 
 * 🚀 Build useful and reliable AI-powered applications.

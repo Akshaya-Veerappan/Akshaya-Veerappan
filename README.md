@@ -6,9 +6,9 @@
 
 <br/>
 
-<h1>Akshaya V</h1>
+<h1>Hi 👋, I'm Akshaya V</h1>
 
-<h3>Generative AI Developer · Python Full Stack Developer</h3>
+<h3>🤖 Generative AI Developer ·🐍 Python Full Stack Developer</h3>
 
 <p>
 Building practical AI-powered applications with Python, LLMs, backend systems, and cloud technologies.

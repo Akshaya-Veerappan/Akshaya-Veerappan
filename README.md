@@ -1,186 +1,202 @@
-<!-- ========== HERO SECTION ========== -->
+<!-- ==================== HERO SECTION ==================== -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=650&height=60&lines=Generative+AI+Developer;Python+Full+Stack+Developer;LLMs+%7C+RAG+%7C+AI+Applications;FastAPI+%7C+SQL+%7C+AWS" alt="Typing SVG" />
-
-<h1>Hi 👋, I'm Akshaya V</h1>
-
-<h3>🤖 Generative AI Developer | 🐍 Python Full Stack Developer</h3>
-
-<p>
-Building AI-powered applications with Python, LLMs, backend technologies, and cloud tools.
-</p>
-
-<p>
-<a href="https://github.com/Akshaya-Veerappan">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/akshaya-veerappan">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="mailto:akshayav492004@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
-
-📍 Chennai, India | 💼 Open to Full-Time Opportunities
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-I'm a Computer Science Engineering graduate passionate about **Generative AI, LLM application development, Python backend engineering, and full-stack development**.
-
-I enjoy building practical applications that combine AI capabilities with reliable backend systems and user-friendly interfaces.
-
-* 🤖 Exploring **Generative AI, Large Language Models (LLMs), and RAG**
-* 🧠 Working with **LangChain, FAISS, Gemini API, and Flan-T5**
-* 🐍 Developing applications with **Python, FastAPI, SQL, and REST APIs**
-* 🌐 Interested in full-stack development and AI integration
-* ☁️ Learning about cloud deployment, system design, and scalable applications
-* 🎯 Career interests: **Generative AI Developer, AI Application Developer, Python Developer**
-* 📍 Based in Chennai, India
-
----
-
-## 🧠 Generative AI & Technical Skills
-
-<div align="center">
-
-### 🤖 Generative AI & Machine Learning
-
-<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge" alt="LLMs"/>
-<img src="https://img.shields.io/badge/RAG-483D8B?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/LangChain-1C7C54?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge" alt="FAISS"/>
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
-<img src="https://img.shields.io/badge/Flan--T5-FFB000?style=for-the-badge" alt="Flan-T5"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-444444?style=for-the-badge" alt="Prompt Engineering"/>
-
-### 🐍 Programming & Backend
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,js" alt="Programming and backend skills"/>
-
-### 🌐 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="Frontend skills"/>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Database skills"/>
-
-### ☁️ Cloud, Deployment & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" alt="Cloud and development tools"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### ⚖️ AI Legal Assistant
-
-**Technologies:** Python · LangChain · FAISS · Gemini API · Flan-T5 · Streamlit
-
-* Developed an AI-powered application for asking questions about legal documents.
-* Used semantic search and vector retrieval to find relevant document content.
-* Explored Retrieval-Augmented Generation (RAG) for document-grounded responses.
-* Built an interactive interface for querying legal information.
-
-### 🌍 Carbon Emission Prediction System
-
-**Technologies:** Python · Machine Learning · FastAPI · MySQL · Data Visualization
-
-* Developed a machine-learning application for predicting carbon emissions.
-* Built a FastAPI backend for prediction requests.
-* Worked with data processing and visualization to present emission-related information.
-* Explored the integration of machine learning with web applications.
-
-### 💼 Job Portal Web Application
-
-**Technologies:** Python · FastAPI · SQL · HTML · CSS · JavaScript · JWT
-
-* Developed a full-stack job portal with backend APIs.
-* Implemented JWT-based authentication.
-* Worked on job-related workflows and role-based functionality.
-
-### 📚 Learning Management System
-
-**Technologies:** Python · FastAPI · REST APIs
-
-* Developed backend functionality for a role-based learning management system.
-* Worked on authentication, dashboards, study materials, and student records.
-
-### ⚙️ FastAPI Todo API
-
-**Technologies:** Python · FastAPI · SQLAlchemy · Pydantic
-
-* Built a REST API supporting CRUD operations.
-* Used SQLAlchemy for database integration and Pydantic for data validation.
-
----
-
-## 🌱 Currently Exploring
-
-* Generative AI application development
-* LLM integration and RAG pipelines
-* AI application evaluation and reliability
-* Advanced Python and FastAPI
-* Data Structures and Algorithms
-* System Design and Cloud Deployment
-
----
-
-## 🎯 My Goals
-
-* 🚀 Build useful, reliable AI-powered applications
-* 🧠 Strengthen my Generative AI and backend development skills
-* 💻 Develop production-ready projects
-* 🌍 Contribute to open-source projects
-* 📈 Grow as a software developer and AI engineer
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akshaya-Veerappan&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya-Veerappan&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Akshaya-Veerappan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/akshaya-veerappan">
-<img src="https://img.shields.io/badge/LinkedIn-Akshaya_Veerappan-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/Akshaya-Veerappan">
-<img src="https://img.shields.io/badge/GitHub-Akshaya--Veerappan-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<a href="mailto:akshayav492004@gmail.com">
-<img src="https://img.shields.io/badge/Email-akshayav492004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=23&duration=3000&pause=1000&color=0F766E&center=true&vCenter=true&width=700&height=55&lines=Generative+AI+Developer;Python+Full+Stack+Developer;LLMs+%7C+RAG+%7C+AI+Applications;FastAPI+%7C+SQL+%7C+AWS" alt="Professional developer introduction"/>
 
 <br/>
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<h1>Akshaya V</h1>
+
+<h3>Generative AI Developer · Python Full Stack Developer</h3>
+
+<p>
+Building practical AI-powered applications with Python, LLMs, backend systems, and cloud technologies.
+</p>
+
+<br/>
+
+<a href="https://github.com/Akshaya-Veerappan">
+  <img src="https://img.shields.io/badge/GitHub-View_Profile-1E293B?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+<a href="https://www.linkedin.com/in/akshaya-veerappan">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0F766E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:akshayav492004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-475569?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Focus-Generative_AI-CCFBF1?style=flat-square" alt="Focus: Generative AI"/>
+<img src="https://img.shields.io/badge/Development-Python-DBEAFE?style=flat-square" alt="Python Development"/>
+<img src="https://img.shields.io/badge/Location-Chennai%2C_India-F1F5F9?style=flat-square" alt="Location"/>
 
 </div>
+
+---
+
+## About Me
+
+I'm a Computer Science Engineering graduate interested in **Generative AI, LLM application development, and Python full-stack engineering**.
+
+I enjoy building applications that combine AI capabilities with practical software development, backend APIs, and intuitive user interfaces.
+
+* **Generative AI:** LLMs, RAG, prompt engineering, and AI application development
+* **AI Technologies:** LangChain, FAISS, Gemini API, and Flan-T5
+* **Backend Development:** Python, FastAPI, REST APIs, and SQL
+* **Full-Stack Development:** HTML, CSS, JavaScript, and React
+* **Cloud Technologies:** AWS and application deployment
+* **Career Interests:** Generative AI Developer, AI Application Developer, and Python Developer
+
+---
+
+## Technical Skills
+
+<div align="center">
+
+### Generative AI & Machine Learning
+
+<img src="https://img.shields.io/badge/Generative_AI-0F766E?style=flat-square" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLMs-0F766E?style=flat-square" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/LangChain-0F766E?style=flat-square" alt="LangChain"/>
+<img src="https://img.shields.io/badge/FAISS-0F766E?style=flat-square" alt="FAISS"/>
+<img src="https://img.shields.io/badge/Gemini_API-0F766E?style=flat-square" alt="Gemini API"/>
+<img src="https://img.shields.io/badge/Flan--T5-0F766E?style=flat-square" alt="Flan-T5"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-0F766E?style=flat-square" alt="Prompt Engineering"/>
+
+### Programming & Backend
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,js" alt="Programming and backend technologies"/>
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="Frontend technologies"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Database technologies"/>
+
+### Cloud & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" alt="Cloud and developer tools"/>
+
+</div>
+
+---
+
+## Featured Projects
+
+### 01 · AI Legal Assistant
+
+**Python · LangChain · FAISS · Gemini API · Flan-T5 · Streamlit**
+
+An AI-powered application for querying legal documents and retrieving relevant information.
+
+* Implemented document retrieval using vector search.
+* Worked with LangChain and FAISS for document-based question answering.
+* Explored RAG to support responses grounded in legal document content.
+* Developed an interactive interface for users to ask questions.
+
+### 02 · Carbon Emission Prediction System
+
+**Python · Machine Learning · FastAPI · MySQL · Data Visualization**
+
+A machine-learning application designed to predict carbon emissions and present results through a web interface.
+
+* Developed a machine-learning prediction workflow.
+* Built backend prediction endpoints using FastAPI.
+* Worked with data processing and visualization.
+* Explored integrating machine-learning functionality into a web application.
+
+### 03 · Job Portal Web Application
+
+**Python · FastAPI · SQL · JavaScript · JWT**
+
+A web application for job-related workflows with backend APIs and authentication.
+
+* Developed REST APIs using FastAPI.
+* Implemented JWT-based authentication.
+* Worked on role-based functionality and job-related workflows.
+* Built frontend components using web technologies.
+
+### 04 · Learning Management System
+
+**Python · FastAPI · REST APIs**
+
+* Developed backend functionality for a role-based learning management system.
+* Worked on authentication and dashboard functionality.
+* Organized functionality related to study materials and student records.
+
+### 05 · FastAPI Todo API
+
+**Python · FastAPI · SQLAlchemy · Pydantic**
+
+* Developed RESTful CRUD endpoints.
+* Integrated SQLAlchemy for database operations.
+* Used Pydantic for request validation.
+
+---
+
+## Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLM_Applications-0F766E?style=flat-square" alt="LLM Applications"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-0F766E?style=flat-square" alt="RAG Pipelines"/>
+<img src="https://img.shields.io/badge/Python_Backend-0F766E?style=flat-square" alt="Python Backend"/>
+<img src="https://img.shields.io/badge/System_Design-0F766E?style=flat-square" alt="System Design"/>
+<img src="https://img.shields.io/badge/Cloud_Deployment-0F766E?style=flat-square" alt="Cloud Deployment"/>
+
+</div>
+
+* Improving LLM application development and RAG workflows
+* Strengthening Python, FastAPI, and problem-solving skills
+* Learning system design and cloud deployment practices
+* Exploring AI application evaluation and reliability
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Akshaya-Veerappan&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0F766E&icon_color=0F766E&text_color=334155" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya-Veerappan&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0F766E&text_color=334155" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Akshaya-Veerappan&hide_border=true&background=FFFFFF&ring=0F766E&fire=0F766E&currStreakLabel=0F766E&sideLabels=334155&dates=64748B" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Akshaya-Veerappan">
+  <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/akshaya-veerappan">
+  <img src="https://img.shields.io/badge/LinkedIn-0F766E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:akshayav492004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-475569?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+**Open to opportunities in Generative AI, AI application development, and Python development.**
+
+*Thanks for visiting my profile!*
+
+</div>
+
+
 
 
 
